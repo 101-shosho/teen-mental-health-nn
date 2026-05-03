@@ -8,5 +8,4 @@ Simple neural network built from scratch using NumPy to predict depression label
 - Gradient descent
 - Data preprocessing with pandas & sklearn
 
-## Run
-python model.py
+
